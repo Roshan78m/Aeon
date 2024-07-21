@@ -242,20 +242,20 @@ function s_validate() {
 </script>
 </head>
 <body>
-  <!--© Designed and coded by @bipuldey19-Telegram-->
+  <!--© Designed and coded by @Paradox_Bots-Telegram-->
     <header>
       <div class="brand">
         <img
           src="https://graph.org/file/1a6ad157f55bc42b548df.png"
           alt="logo"
         />
-        <a href="https://t.me/krn_adhikari">
+        <a href="https://t.me/spy_Radios">
           <h2 class="name">Bittorrent Selection</h2>
         </a>
       </div>
       <div class="social">
         <a href="https://www.github.com/weebzone/WZML"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/krn_adhikari"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/Spy_Radios"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <div id="sticks">
@@ -634,20 +634,20 @@ section span{
     </style>
   </head>
 <body>
-   <!--© Designed and coded by @bipuldey19-Telegram-->
+   <!--© Designed and coded by @spÿ_Radios-Telegram-->
     <header>
       <div class="brand">
         <img
           src="https://graph.org/file/1a6ad157f55bc42b548df.png"
           alt="logo"
         />
-        <a href="https://t.me/krn_adhikari">
+        <a href="https://t.me/spy_Radios">
           <h2 class="name">Bittorrent Selection</h2>
         </a>
       </div>
       <div class="social">
         <a href="https://www.github.com/weebzone/WZML"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/krn_adhikari"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/spy_Radios"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
